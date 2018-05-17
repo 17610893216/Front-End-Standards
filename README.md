@@ -3,6 +3,6 @@
 
 # 目录
 
-- <a href='./html 前端规范.md'>html 前端规范</a>
-- <a href='./css 前端规范.md'>css 前端规范</a>
-- <a href='./javascript 前端规范.md'>javascript 前端规范</a>
+- <a href='./html 代码规范.md'>html 代码规范</a>
+- <a href='./css 代码规范.md'>css 代码规范</a>
+- <a href='./javascript 代码规范.md'>javascript 代码规范</a>
